@@ -43,3 +43,6 @@ See [changelog](changelog.md).
 - PHPMailer moves to [the PHPMailer organisation](https://github.com/PHPMailer) on GitHub in 2013.
 
 Add from ubuntu:abacas
+‘Unstaging staged changes from ubuntu’
+Undoing a commit
+Undoing a commit
